@@ -21,6 +21,13 @@ body>img{
     object-position: center;
 }
 
+#ammu-bby{
+    width: 100px;
+    object-fit: cover;
+    object-position: top;
+    height: 100px;
+}
+
 li {
   list-style: none;
 }
